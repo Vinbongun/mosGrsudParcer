@@ -1,8 +1,9 @@
 const puppeteer = require("puppeteer")
 const cheerio = require("cheerio")
+var js2xmlparser = require("js2xmlparser")
 
 const asyncForEach = async (array, callback) => {
-  for (let index = 1000; index < array.length; index++) {
+  for (let index = 0; index < 3; index++) {
     await callback(array[index], index, array)
   }
 }
@@ -90,6 +91,9 @@ const start = async () => {
 
   /* generate an XLSX file */
   XLSX.writeFile(wb, "sheetjs-2.xlsx")
+
+  console.log(js2xmlparser.parse("info", resultArray))
+
   process.exit(1)
 }
 start()
