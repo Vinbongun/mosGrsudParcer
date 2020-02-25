@@ -1,238 +1,47 @@
-[
-  {
-    "caseNumber": "3а-3338/2020",
-    "oldNumber": null,
-    "caseMaterials": "Ма-7711/2019",
-    "href": "https://www.mos-gorsud.ru/mgs/services/cases/first-admin/details/b8f9c7c1-35b0-44ca-a4ac-b1fe2d0a685e"
-  },
-  {
-    "caseNumber": "3а-2846/2020",
-    "oldNumber": null,
-    "caseMaterials": "Ма-7333/2019",
-    "href": "https://www.mos-gorsud.ru/mgs/services/cases/first-admin/details/23585cb5-47fc-484d-a150-d865b121ff70"
-  },
-  {
-    "caseNumber": "3а-2842/2020",
-    "oldNumber": null,
-    "caseMaterials": "Ма-7335/2019",
-    "href": "https://www.mos-gorsud.ru/mgs/services/cases/first-admin/details/aa71ad11-9970-4c80-973d-dc62a9e3ea0e"
-  },
-  {
-    "caseNumber": "3а-2764/2020",
-    "oldNumber": null,
-    "caseMaterials": "Ма-6334/2019",
-    "href": "https://www.mos-gorsud.ru/mgs/services/cases/first-admin/details/a410a39c-da02-4856-82f7-ba56ed971ffd"
-  },
-  {
-    "caseNumber": "3а-2718/2020",
-    "oldNumber": null,
-    "caseMaterials": "Ма-7017/2019",
-    "href": "https://www.mos-gorsud.ru/mgs/services/cases/first-admin/details/bf541617-e709-45bd-9861-5b204091e09e"
-  },
-  {
-    "caseNumber": "3а-2122/2020",
-    "oldNumber": "3а-6706/2019",
-    "caseMaterials": "Ма-7701/2019",
-    "href": "https://www.mos-gorsud.ru/mgs/services/cases/first-admin/details/ab881381-e7ba-41fe-b9cc-14e069539a95"
-  },
-  {
-    "caseNumber": "3а-0509/2020",
-    "oldNumber": "3а-4450/2019",
-    "caseMaterials": "Ма-4735/2019",
-    "href": "https://www.mos-gorsud.ru/mgs/services/cases/first-admin/details/5524cd79-6a44-496e-97d2-da90a7c86b32"
-  },
-  {
-    "caseNumber": "3а-2286/2020",
-    "oldNumber": null,
-    "caseMaterials": "Ма-7787/2019",
-    "href": "https://www.mos-gorsud.ru/mgs/services/cases/first-admin/details/f8c792aa-fa33-43f8-8fde-7c239bc63473"
-  },
-  {
-    "caseNumber": "3а-2315/2020",
-    "oldNumber": null,
-    "caseMaterials": "Ма-8035/2019",
-    "href": "https://www.mos-gorsud.ru/mgs/services/cases/first-admin/details/7b61027b-406e-4fa6-97be-fee9fc64dade"
-  },
-  {
-    "caseNumber": "3а-0617/2020",
-    "oldNumber": "3а-4702/2019",
-    "caseMaterials": "Ма-4144/2019",
-    "href": "https://www.mos-gorsud.ru/mgs/services/cases/first-admin/details/f303421b-0361-4154-98e7-3807b97204b6"
-  },
-  {
-    "caseNumber": "3а-2431/2020",
-    "oldNumber": null,
-    "caseMaterials": "Ма-6676/2019",
-    "href": "https://www.mos-gorsud.ru/mgs/services/cases/first-admin/details/2300f4c4-8d29-4b73-a1a4-7052776dff58"
-  },
-  {
-    "caseNumber": "3а-2321/2020",
-    "oldNumber": null,
-    "caseMaterials": "Ма-7047/2019",
-    "href": "https://www.mos-gorsud.ru/mgs/services/cases/first-admin/details/022b7caf-db27-4664-985d-751b2174c651"
-  },
-  {
-    "caseNumber": "3а-2511/2020",
-    "oldNumber": null,
-    "caseMaterials": "Ма-7003/2019",
-    "href": "https://www.mos-gorsud.ru/mgs/services/cases/first-admin/details/0c15cefa-cc4c-4ba4-a85c-9350328a6bc9"
-  },
-  {
-    "caseNumber": "3а-3198/2020",
-    "oldNumber": null,
-    "caseMaterials": "Ма-7664/2019",
-    "href": "https://www.mos-gorsud.ru/mgs/services/cases/first-admin/details/e1e33ea6-27dd-471a-90bc-b12a3ac490c3"
-  },
-  {
-    "caseNumber": "3а-3207/2020",
-    "oldNumber": null,
-    "caseMaterials": "Ма-7757/2019",
-    "href": "https://www.mos-gorsud.ru/mgs/services/cases/first-admin/details/77e38d33-1eb9-45b0-8e2b-3d4a1ee12dbc"
-  },
-  {
-    "caseNumber": "3а-3243/2020",
-    "oldNumber": null,
-    "caseMaterials": "Ма-7682/2019",
-    "href": "https://www.mos-gorsud.ru/mgs/services/cases/first-admin/details/6234413c-5331-4920-be89-335179ced7fc"
-  },
-  {
-    "caseNumber": "3а-0624/2019",
-    "oldNumber": null,
-    "caseMaterials": "Ма-0309/2019",
-    "href": "https://www.mos-gorsud.ru/mgs/services/cases/first-admin/details/955f3f8d-6280-4d36-97f2-d78a91dbb4df"
-  },
-  {
-    "caseNumber": "3а-0627/2019",
-    "oldNumber": null,
-    "caseMaterials": "Ма-0313/2019",
-    "href": "https://www.mos-gorsud.ru/mgs/services/cases/first-admin/details/d09a2068-a058-4d94-b914-89e070bf22d1"
-  },
-  {
-    "caseNumber": "33а-5778/2019",
-    "oldNumber": null,
-    "href": "https://www.mos-gorsud.ru/mgs/services/cases/board-admin/details/824005f1-963e-49c6-8b0e-f9cc545a49b1"
-  },
-  {
-    "caseNumber": "3а-0626/2019",
-    "oldNumber": null,
-    "caseMaterials": "Ма-0312/2019",
-    "href": "https://www.mos-gorsud.ru/mgs/services/cases/first-admin/details/3c35f59c-e24d-49a8-b331-0e63fb66987a"
-  },
-  {
-    "caseNumber": "3а-0622/2019",
-    "oldNumber": null,
-    "caseMaterials": "Ма-0305/2019",
-    "href": "https://www.mos-gorsud.ru/mgs/services/cases/first-admin/details/2f8201e9-4df9-421b-95d4-bcda7fa6be30"
-  },
-  {
-    "caseNumber": "33а-6163/2019",
-    "oldNumber": null,
-    "href": "https://www.mos-gorsud.ru/mgs/services/cases/board-admin/details/2140f6fe-46f0-4754-adf5-f96277e28c76"
-  },
-  {
-    "caseNumber": "33а-5137/2019",
-    "oldNumber": null,
-    "href": "https://www.mos-gorsud.ru/mgs/services/cases/board-admin/details/94543b5c-edd2-4b15-903e-c3b174098275"
-  },
-  {
-    "caseNumber": "3а-0773/2019",
-    "oldNumber": null,
-    "caseMaterials": "Ма-0441/2019",
-    "href": "https://www.mos-gorsud.ru/mgs/services/cases/first-admin/details/609163e2-2866-4fc0-8378-3d820c5901d7"
-  },
-  {
-    "caseNumber": "33а-5175/2019",
-    "oldNumber": null,
-    "href": "https://www.mos-gorsud.ru/mgs/services/cases/board-admin/details/55e27ac8-6a8a-42f4-9048-9d0cb9e5f1c3"
-  },
-  {
-    "caseNumber": "3а-2960/2020",
-    "oldNumber": null,
-    "caseMaterials": "Ма-7363/2019",
-    "href": "https://www.mos-gorsud.ru/mgs/services/cases/first-admin/details/69c7b8b0-69ee-4a07-982e-ab73c5d38d4c"
-  },
-  {
-    "caseNumber": "3а-2286/2020",
-    "oldNumber": null,
-    "caseMaterials": "Ма-7787/2019",
-    "href": "https://www.mos-gorsud.ru/mgs/services/cases/first-admin/details/f8c792aa-fa33-43f8-8fde-7c239bc63473"
-  },
-  {
-    "caseNumber": "3а-3008/2020",
-    "oldNumber": null,
-    "caseMaterials": "Ма-7441/2019",
-    "href": "https://www.mos-gorsud.ru/mgs/services/cases/first-admin/details/ded3cb6d-4cb5-494d-badd-b38e34103422"
-  },
-  {
-    "caseNumber": "3а-3434/2020",
-    "oldNumber": null,
-    "caseMaterials": "Ма-7830/2019",
-    "href": "https://www.mos-gorsud.ru/mgs/services/cases/first-admin/details/0e781ad6-dbfa-4b52-9d09-f650fd023472"
-  },
-  {
-    "caseNumber": "3а-2718/2020",
-    "oldNumber": null,
-    "caseMaterials": "Ма-7017/2019",
-    "href": "https://www.mos-gorsud.ru/mgs/services/cases/first-admin/details/bf541617-e709-45bd-9861-5b204091e09e"
-  },
-  {
-    "caseNumber": "3а-3336/2020",
-    "oldNumber": null,
-    "caseMaterials": "Ма-7777/2019",
-    "href": "https://www.mos-gorsud.ru/mgs/services/cases/first-admin/details/873d8888-7655-4131-93d1-dba6b8924221"
-  },
-  {
-    "caseNumber": "3а-2976/2020",
-    "oldNumber": null,
-    "caseMaterials": "Ма-7890/2019",
-    "href": "https://www.mos-gorsud.ru/mgs/services/cases/first-admin/details/9a37b9e9-e05f-445d-b5c1-9338fdbb0c12"
-  },
-  {
-    "caseNumber": "3а-3168/2020",
-    "oldNumber": null,
-    "caseMaterials": "Ма-7665/2019",
-    "href": "https://www.mos-gorsud.ru/mgs/services/cases/first-admin/details/86eab656-a067-4dc9-9de2-e25f7318daa3"
-  },
-  {
-    "caseNumber": "3а-2625/2020",
-    "oldNumber": null,
-    "caseMaterials": "Ма-7143/2019",
-    "href": "https://www.mos-gorsud.ru/mgs/services/cases/first-admin/details/6069addb-9314-485c-a289-e839cc8219bf"
-  },
-  {
-    "caseNumber": "3а-3170/2020",
-    "oldNumber": null,
-    "caseMaterials": "Ма-7696/2019",
-    "href": "https://www.mos-gorsud.ru/mgs/services/cases/first-admin/details/894d4bb9-2072-45f3-8db8-2d6681d6368a"
-  },
-  {
-    "caseNumber": "3а-3326/2020",
-    "oldNumber": null,
-    "caseMaterials": "Ма-7754/2019",
-    "href": "https://www.mos-gorsud.ru/mgs/services/cases/first-admin/details/afd74850-9479-4356-a66f-cf04b54d5850"
-  },
-  {
-    "caseNumber": "3а-3283/2020",
-    "oldNumber": null,
-    "caseMaterials": "Ма-7786/2019",
-    "href": "https://www.mos-gorsud.ru/mgs/services/cases/first-admin/details/9b68af8e-6c91-4558-9996-283d19541ce3"
-  },
-  {
-    "caseNumber": "3а-2122/2020",
-    "oldNumber": "3а-6706/2019",
-    "caseMaterials": "Ма-7701/2019",
-    "href": "https://www.mos-gorsud.ru/mgs/services/cases/first-admin/details/ab881381-e7ba-41fe-b9cc-14e069539a95"
-  },
-  {
-    "caseNumber": "3а-0509/2020",
-    "oldNumber": "3а-4450/2019",
-    "caseMaterials": "Ма-4735/2019",
-    "href": "https://www.mos-gorsud.ru/mgs/services/cases/first-admin/details/5524cd79-6a44-496e-97d2-da90a7c86b32"
-  },
-  {
-    "caseNumber": "3а-2315/2020",
-    "oldNumber": null,
-    "caseMaterials": "Ма-8035/2019",
-    "href": "https://www.mos-gorsud.ru/mgs/services/cases/first-admin/details/7b61027b-406e-4fa6-97be-fee9fc64dade"
-  }
-]
+{
+  "info": [
+    {
+      "uniqueId": "77OS0000-01-2018-004804-18",
+      "caseNumber": "3а-2949/2018",
+      "oldNumber": null,
+      "caseMaterials": "Ма-2168/2018",
+      "plaintiff": "ОАО \"Щербинский лифтостроительный завод\"",
+      "defendant": "Правительство г. Москвы, Управление Росреестра по г. Москве",
+      "dateIn": "15.05.2018",
+      "dateReview": "18.09.2018",
+      "dateEntry": "26.10.2018",
+      "judge": "Басыров И.И.",
+      "category": "121 - Об установлении рыночной стоимости земельных участков и отдельных объектов недвижимости",
+      "currentState": "Удовлетворено, 18.09.2018"
+    }
+  ],
+  "session": [
+    {
+      "id": 1,
+      "date": "10.07.2018",
+      "time": "09:30",
+      "room": "",
+      "stage": "Беседа",
+      "results": "Проведена",
+      "basis": ""
+    },
+    {
+      "id": 2,
+      "date": "10.07.2018",
+      "time": "09:35",
+      "room": "504 - Основное здание",
+      "stage": "Судебное заседание",
+      "results": "Приостановлено",
+      "basis": "Назначение судом экспертизы"
+    },
+    {
+      "id": 3,
+      "date": "18.09.2018",
+      "time": "10:10",
+      "room": "504 - Основное здание",
+      "stage": "Судебное заседание",
+      "results": "Рассмотрение завершено",
+      "basis": ""
+    }
+  ]
+}

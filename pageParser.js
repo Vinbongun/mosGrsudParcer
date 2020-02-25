@@ -21,9 +21,9 @@ const start = async () => {
 }
 
 start().then(body => {
-  const cardsud_wrapper = []
   const cardsud_wrapperLeft = []
   const cardsud_wrapperRight = []
+  const cardsud_wrapper = []
   const thead = []
   const descriptionArray = []
   const session = []
@@ -144,23 +144,26 @@ start().then(body => {
     tableBasisIndex += 6
   }
 
-  console.log(cardsud_wrapper.concat(session))
+  const allDone = { info: cardsud_wrapper, session: session }
+  console.log(allDone)
 
-  // //Сохранение в excel
-  // if (typeof XLSX == "undefined") XLSX = require("xlsx")
+  //   console.log(cardsud_wrapper.concat(session))
 
-  // /* make the worksheet */
-  // var ws = XLSX.utils.json_to_sheet(cardsud_wrapper.concat(session))
+  //   //Сохранение в excel
+  //   if (typeof XLSX == "undefined") XLSX = require("xlsx")
 
-  // /* add to workbook */
-  // var wb = XLSX.utils.book_new()
-  // XLSX.utils.book_append_sheet(wb, ws, "SUD")
+  //   /* make the worksheet */
+  //   var ws = XLSX.utils.json_to_sheet(allDone)
 
-  // /* generate an XLSX file */
-  // XLSX.writeFile(wb, "parser.xlsx")
+  //   /* add to workbook */
+  //   var wb = XLSX.utils.book_new()
+  //   XLSX.utils.book_append_sheet(wb, ws, "SUD")
 
-  // //Сохранение в json
-  // var fs = require("fs")
-  // let data = JSON.stringify(cardsud_wrapper.concat(session))
-  // fs.writeFileSync("data.json", data)
+  //   /* generate an XLSX file */
+  //   XLSX.writeFile(wb, "parser.xlsx")
+
+  // Сохранение в json
+  var fs = require("fs")
+  let data = JSON.stringify(allDone)
+  fs.writeFileSync("data.json", data)
 })

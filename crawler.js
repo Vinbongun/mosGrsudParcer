@@ -92,39 +92,40 @@ counter().then(allPageCount => {
               .replace("(", "")
               .replace(")", "")
           } catch (error) {
-            var oldNumber = null
+            var oldNumber = ""
           }
           caseOnPage.push({
-            caseNumber: caseOnPageDescription[i]
-              .replace(/\s+/g, "")
-              .split("∼")[0]
-              .split("(")[0],
-            oldNumber: oldNumber,
-            caseMaterials: caseOnPageDescription[i]
-              .replace(/\s+/g, "")
-              .split("∼")[1],
+            // caseNumber: caseOnPageDescription[i]
+            //   .replace(/\s+/g, "")
+            //   .split("∼")[0]
+            //   .split("(")[0],
+            // oldNumber: oldNumber,
+            // caseMaterials: caseOnPageDescription[i]
+            //   .replace(/\s+/g, "")
+            //   .split("∼")[1],
             href: caseOnPageHref[i]
           })
         }
+        console.log(caseOnPage)
       })
       .then(fn => {
         //Сохранение в excel
         if (typeof XLSX == "undefined") XLSX = require("xlsx")
 
-        /* make the worksheet */
+        /* создания листа */
         var ws = XLSX.utils.json_to_sheet(caseOnPage)
 
-        /* add to workbook */
+        /* добавление в книгу */
         var wb = XLSX.utils.book_new()
         XLSX.utils.book_append_sheet(wb, ws, "SUD")
 
-        /* generate an XLSX file */
-        XLSX.writeFile(wb, "parser.xlsx")
+        /* генерация и сохранение файла */
+        XLSX.writeFile(wb, "data/parser.xlsx")
 
         // //Сохранение в json
         var fs = require("fs")
         let data = JSON.stringify(caseOnPage)
-        fs.writeFileSync("data.json", data)
+        fs.writeFileSync("data/data.json", data)
       })
   }
 })
