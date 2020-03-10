@@ -1,0 +1,26 @@
+<?xml version='1.0'?>
+<case>
+    <info>
+        <uniqueId>77OS0000-01-2019-018233-02</uniqueId>
+        <caseNumber>3а-3198/2020</caseNumber>
+        <oldNumber>null</oldNumber>
+        <caseMaterials>Ма-7664/2019</caseMaterials>
+        <plaintiff>Ермоленко Л.Н.</plaintiff>
+        <defendant>ГБУ "Центр имущественных платежей и жилищного страхования", Департамент городского имущества г.Москвы, Управление Росреестра по г.Москве</defendant>
+        <dateIn>24.12.2019</dateIn>
+        <dateReview>undefined</dateReview>
+        <dateEntry>undefined</dateEntry>
+        <judge>Дорохина Е.М.</judge>
+        <category>121 - Об установлении рыночной стоимости земельных участков и отдельных объектов недвижимости</category>
+        <currentState>Назначена беседа на 02.03.2020 16:30</currentState>
+    </info>
+    <session>
+        <id>1</id>
+        <date>02.03.2020</date>
+        <time>16:30</time>
+        <room>604 - Основное здание</room>
+        <stage>Беседа</stage>
+        <results/>
+        <basis/>
+    </session>
+</case>
